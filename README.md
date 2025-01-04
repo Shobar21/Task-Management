@@ -20,7 +20,6 @@ Taskmaster is built using the **MERN stack**:
 
 ### Server Side
 1. Clone this repository and navigate to the `server` folder.  
-2. Inside the `server` folder, navigate to the `dist` directory.  
-3. Run the server using the following command:  
+2. Run the server using the following command:  
    ```bash
    node index.js
